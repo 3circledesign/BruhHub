@@ -153710,5 +153710,693 @@
     {
         "appid": "38600",
         "name": "Unknown Game"
+    },
+    {
+        "appid": "3244220",
+        "name": "A Game About Digging A Hole"
+    },
+    {
+        "appid": "1660080",
+        "name": "Aloft"
+    },
+    {
+        "appid": "1926520",
+        "name": "Ambulance Life: A Paramedic Simulator"
+    },
+    {
+        "appid": "2208920",
+        "name": "Assassin's Creed Valhalla"
+    },
+    {
+        "appid": "812140",
+        "name": "Assassin's Creed® Odyssey"
+    },
+    {
+        "appid": "2457220",
+        "name": "Avowed"
+    },
+    {
+        "appid": "3023070",
+        "name": "BEYBLADE X XONE"
+    },
+    {
+        "appid": "2358720",
+        "name": "Black Myth: Wukong"
+    },
+    {
+        "appid": "2671230",
+        "name": "BLADECHIMERA"
+    },
+    {
+        "appid": "2721240",
+        "name": "Brothel Secrets 🔞"
+    },
+    {
+        "appid": "983380",
+        "name": "Car Manufacture"
+    },
+    {
+        "appid": "1114150",
+        "name": "CarX Street"
+    },
+    {
+        "appid": "2817140",
+        "name": "Charming Hearts"
+    },
+    {
+        "appid": "1052440",
+        "name": "Croixleur Sigma - Deluxe Edition"
+    },
+    {
+        "appid": "3334550",
+        "name": "Cursed Digicam | 呪われたデジカメ"
+    },
+    {
+        "appid": "1097580",
+        "name": "CUSTOM ORDER MAID 3D2 It's a Night Magic"
+    },
+    {
+        "appid": "2421410",
+        "name": "Cyber Manhunt 2: New World - The Hacking Simulator"
+    },
+    {
+        "appid": "1091500",
+        "name": "Cyberpunk 2077"
+    },
+    {
+        "appid": "1691970",
+        "name": "Danganronpa S: Ultimate Summer Camp"
+    },
+    {
+        "appid": "236430",
+        "name": "DARK SOULS™ II"
+    },
+    {
+        "appid": "2884590",
+        "name": "Darkchaser: Battletide"
+    },
+    {
+        "appid": "388410",
+        "name": "Darksiders II Deathinitive Edition"
+    },
+    {
+        "appid": "606280",
+        "name": "Darksiders III"
+    },
+    {
+        "appid": "1709080",
+        "name": "Dating Simulator"
+    },
+    {
+        "appid": "1345890",
+        "name": "Deliver Us Mars"
+    },
+    {
+        "appid": "1490890",
+        "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles"
+    },
+    {
+        "appid": "3301060",
+        "name": "Desktop Mate"
+    },
+    {
+        "appid": "2850380",
+        "name": "Device Doctor Simulator 2024"
+    },
+    {
+        "appid": "690790",
+        "name": "DiRT Rally 2.0"
+    },
+    {
+        "appid": "2844700",
+        "name": "Doki Doki AI Interrogation"
+    },
+    {
+        "appid": "1239080",
+        "name": "Door Kickers 2: Task Force North"
+    },
+    {
+        "appid": "1790600",
+        "name": "DRAGON BALL: Sparking! ZERO"
+    },
+    {
+        "appid": "410850",
+        "name": "DRAGON QUEST HEROES™ Slime Edition"
+    },
+    {
+        "appid": "2054970",
+        "name": "Dragon's Dogma 2"
+    },
+    {
+        "appid": "2450700",
+        "name": "Drug Lord Tycoon"
+    },
+    {
+        "appid": "2384580",
+        "name": "DYNASTY WARRIORS: ORIGINS"
+    },
+    {
+        "appid": "1245620",
+        "name": "ELDEN RING"
+    },
+    {
+        "appid": "3044550",
+        "name": "Eldrea: SEX Saga 🔞"
+    },
+    {
+        "appid": "488310",
+        "name": "Eleven Table Tennis"
+    },
+    {
+        "appid": "2135150",
+        "name": "Elin"
+    },
+    {
+        "appid": "2725260",
+        "name": "ENDER MAGNOLIA: Bloom in the Mist"
+    },
+    {
+        "appid": "1425000",
+        "name": "Endless Alice"
+    },
+    {
+        "appid": "1491410",
+        "name": "Eternal Strands"
+    },
+    {
+        "appid": "1402110",
+        "name": "Eternights"
+    },
+    {
+        "appid": "2909400",
+        "name": "FINAL FANTASY VII REBIRTH"
+    },
+    {
+        "appid": "637650",
+        "name": "FINAL FANTASY XV WINDOWS EDITION"
+    },
+    {
+        "appid": "2515020",
+        "name": "FINAL FANTASY XVI"
+    },
+    {
+        "appid": "2287520",
+        "name": "Five Nights at Freddy's: Help Wanted 2"
+    },
+    {
+        "appid": "3328720",
+        "name": "Flash Doll"
+    },
+    {
+        "appid": "1551360",
+        "name": "Forza Horizon 5"
+    },
+    {
+        "appid": "2440510",
+        "name": "Forza Motorsport"
+    },
+    {
+        "appid": "2978540",
+        "name": "Gaming Cafe Simulator"
+    },
+    {
+        "appid": "2322010",
+        "name": "God of War Ragnarök"
+    },
+    {
+        "appid": "3240220",
+        "name": "Grand Theft Auto V Enhanced"
+    },
+    {
+        "appid": "585900",
+        "name": "Harvest Moon: Light of Hope Special Edition"
+    },
+    {
+        "appid": "1246870",
+        "name": "Harvest Moon: One World"
+    },
+    {
+        "appid": "2140650",
+        "name": "Harvest Moon: The Winds of Anthos"
+    },
+    {
+        "appid": "1948980",
+        "name": "Hero's Adventure: Road to Passion"
+    },
+    {
+        "appid": "619820",
+        "name": "Heroes of Hammerwatch II"
+    },
+    {
+        "appid": "990080",
+        "name": "Hogwarts Legacy"
+    },
+    {
+        "appid": "2561580",
+        "name": "Horizon Zero Dawn™ Remastered"
+    },
+    {
+        "appid": "1271700",
+        "name": "HOT WHEELS UNLEASHED™"
+    },
+    {
+        "appid": "2051120",
+        "name": "HOT WHEELS UNLEASHED™ 2 - Turbocharged"
+    },
+    {
+        "appid": "2985930",
+        "name": "I Am Part-time Worker!!"
+    },
+    {
+        "appid": "3359830",
+        "name": "I Wanna Fuck my Busty Boss"
+    },
+    {
+        "appid": "2677660",
+        "name": "Indiana Jones and the Great Circle"
+    },
+    {
+        "appid": "2924050",
+        "name": "Innocent Grape"
+    },
+    {
+        "appid": "2856370",
+        "name": "Into the Emberlands"
+    },
+    {
+        "appid": "2894960",
+        "name": "Inverted Angel"
+    },
+    {
+        "appid": "1924140",
+        "name": "ISEKAI FRONTLINE"
+    },
+    {
+        "appid": "1426210",
+        "name": "It Takes Two"
+    },
+    {
+        "appid": "2289720",
+        "name": "Kaiju Princess 2"
+    },
+    {
+        "appid": "1179580",
+        "name": "KAKU: Ancient Seal"
+    },
+    {
+        "appid": "2947240",
+        "name": "Kimi no Hitomi ni Hit Me"
+    },
+    {
+        "appid": "1771300",
+        "name": "Kingdom Come: Deliverance II"
+    },
+    {
+        "appid": "2510710",
+        "name": "Kunitsu-Gami: Path of the Goddess"
+    },
+    {
+        "appid": "2819180",
+        "name": "LAST HAREM"
+    },
+    {
+        "appid": "2428810",
+        "name": "LEGO® Horizon Adventures™"
+    },
+    {
+        "appid": "1456940",
+        "name": "Level Zero: Extraction"
+    },
+    {
+        "appid": "1874000",
+        "name": "Life is Strange: Double Exposure"
+    },
+    {
+        "appid": "3061810",
+        "name": "Like a Dragon: Pirate Yakuza in Hawaii"
+    },
+    {
+        "appid": "3351140",
+        "name": "Limoria"
+    },
+    {
+        "appid": "1049890",
+        "name": "Little Witch Nobeta"
+    },
+    {
+        "appid": "2658450",
+        "name": "LOLLIPOP CHAINSAW RePOP"
+    },
+    {
+        "appid": "1902960",
+        "name": "Lost Records: Bloom & Rage"
+    },
+    {
+        "appid": "1174690",
+        "name": "love wish 2"
+    },
+    {
+        "appid": "1607130",
+        "name": "Lust Theory - Season 1"
+    },
+    {
+        "appid": "2781250",
+        "name": "Lyndaria: Lust Adventure"
+    },
+    {
+        "appid": "2739590",
+        "name": "Mad Island"
+    },
+    {
+        "appid": "2651280",
+        "name": "Marvel's Spider-Man 2"
+    },
+    {
+        "appid": "2928330",
+        "name": "MASH VP! Re:VISION"
+    },
+    {
+        "appid": "1160490",
+        "name": "Master Of Pottery"
+    },
+    {
+        "appid": "1128860",
+        "name": "Men of War II"
+    },
+    {
+        "appid": "287700",
+        "name": "METAL GEAR SOLID V: THE PHANTOM PAIN"
+    },
+    {
+        "appid": "2679460",
+        "name": "Metaphor: ReFantazio"
+    },
+    {
+        "appid": "1270580",
+        "name": "Mind Over Magic"
+    },
+    {
+        "appid": "1747760",
+        "name": "Momodora: Moonlit Farewell"
+    },
+    {
+        "appid": "2246340",
+        "name": "Monster Hunter Wilds"
+    },
+    {
+        "appid": "2171560",
+        "name": "Morbid: The Lords of Ire"
+    },
+    {
+        "appid": "230270",
+        "name": "N++ (NPLUSPLUS)"
+    },
+    {
+        "appid": "3287520",
+        "name": "NINJA GAIDEN 2 Black"
+    },
+    {
+        "appid": "1232460",
+        "name": "Onee Chanbara ORIGIN"
+    },
+    {
+        "appid": "3036880",
+        "name": "Panic In The Woods"
+    },
+    {
+        "appid": "1272080",
+        "name": "PAYDAY 3"
+    },
+    {
+        "appid": "1687950",
+        "name": "Persona 5 Royal"
+    },
+    {
+        "appid": "1443620",
+        "name": "Pirates VR: Jolly Roger"
+    },
+    {
+        "appid": "2688950",
+        "name": "Planet Coaster 2"
+    },
+    {
+        "appid": "1850160",
+        "name": "Poly Bridge 3"
+    },
+    {
+        "appid": "1721470",
+        "name": "Poppy Playtime"
+    },
+    {
+        "appid": "115320",
+        "name": "Prototype 2"
+    },
+    {
+        "appid": "2928520",
+        "name": "Recycling Center Simulator"
+    },
+    {
+        "appid": "2050650",
+        "name": "Resident Evil 4"
+    },
+    {
+        "appid": "1196590",
+        "name": "Resident Evil Village"
+    },
+    {
+        "appid": "1558830",
+        "name": "RIPOUT"
+    },
+    {
+        "appid": "2530950",
+        "name": "Rock Star Life Simulator"
+    },
+    {
+        "appid": "2897760",
+        "name": "Romantic Escapades"
+    },
+    {
+        "appid": "2703850",
+        "name": "Rooftops & Alleys: The Parkour Game"
+    },
+    {
+        "appid": "2020860",
+        "name": "Rush Rally 3"
+    },
+    {
+        "appid": "3359320",
+        "name": "SchoolBoy Runaway"
+    },
+    {
+        "appid": "1702010",
+        "name": "Sengoku Dynasty"
+    },
+    {
+        "appid": "2740180",
+        "name": "Sex Euphoria 💖"
+    },
+    {
+        "appid": "2834180",
+        "name": "Sex Faculty🔞"
+    },
+    {
+        "appid": "2889660",
+        "name": "Sex Formula"
+    },
+    {
+        "appid": "2710660",
+        "name": "SEX SPA 🔞💦"
+    },
+    {
+        "appid": "3009830",
+        "name": "SEX, BEACH & GIRLS ⛱ 💦"
+    },
+    {
+        "appid": "2955820",
+        "name": "Sex, Camera, Action! 🔞"
+    },
+    {
+        "appid": "2608620",
+        "name": "Sex, Please"
+    },
+    {
+        "appid": "1875830",
+        "name": "Shin Megami Tensei V: Vengeance"
+    },
+    {
+        "appid": "1548850",
+        "name": "Six Days in Fallujah"
+    },
+    {
+        "appid": "2822030",
+        "name": "Smash Girls"
+    },
+    {
+        "appid": "2273570",
+        "name": "Speed Dates"
+    },
+    {
+        "appid": "2001120",
+        "name": "Split Fiction"
+    },
+    {
+        "appid": "2170370",
+        "name": "SPY×ANYA: Operation Memories"
+    },
+    {
+        "appid": "2380050",
+        "name": "Star Trucker"
+    },
+    {
+        "appid": "2842040",
+        "name": "Star Wars Outlaws"
+    },
+    {
+        "appid": "2889280",
+        "name": "Step-Sister's Pussy 🔞"
+    },
+    {
+        "appid": "2890830",
+        "name": "Streamer Life Simulator 2"
+    },
+    {
+        "appid": "315210",
+        "name": "Suicide Squad: Kill the Justice League"
+    },
+    {
+        "appid": "1858630",
+        "name": "SWORD ART ONLINE Fractured Daydream"
+    },
+    {
+        "appid": "2459350",
+        "name": "Taboo University Book One"
+    },
+    {
+        "appid": "1778820",
+        "name": "TEKKEN 8"
+    },
+    {
+        "appid": "1003590",
+        "name": "Tetris® Effect: Connected"
+    },
+    {
+        "appid": "3209620",
+        "name": "The Ethereal Dream"
+    },
+    {
+        "appid": "3059070",
+        "name": "The Headliners"
+    },
+    {
+        "appid": "1461920",
+        "name": "The Legend of Heroes: Ao no Kiseki KAI"
+    },
+    {
+        "appid": "1562940",
+        "name": "THE LEGEND OF HEROES: HAJIMARI NO KISEKI"
+    },
+    {
+        "appid": "1811950",
+        "name": "The Legend of Heroes: Kuro no Kiseki"
+    },
+    {
+        "appid": "2113920",
+        "name": "The Legend of Heroes: Kuro no Kiseki Ⅱ -CRIMSON SiN-\t"
+    },
+    {
+        "appid": "1450120",
+        "name": "The Legend of Heroes: Sen no Kiseki I KAI -Thors Military Academy 1204-"
+    },
+    {
+        "appid": "1450090",
+        "name": "The Legend of Heroes: Sen no Kiseki II KAI -The Erebonian Civil War-"
+    },
+    {
+        "appid": "1450080",
+        "name": "The Legend of Heroes: Sen no Kiseki III"
+    },
+    {
+        "appid": "1457510",
+        "name": "The Legend of Heroes: Sen no Kiseki IV -THE END OF SAGA-"
+    },
+    {
+        "appid": "1668510",
+        "name": "The Legend of Heroes: Trails from Zero"
+    },
+    {
+        "appid": "251150",
+        "name": "The Legend of Heroes: Trails in the Sky"
+    },
+    {
+        "appid": "251290",
+        "name": "The Legend of Heroes: Trails in the Sky SC"
+    },
+    {
+        "appid": "436670",
+        "name": "The Legend of Heroes: Trails in the Sky the 3rd"
+    },
+    {
+        "appid": "1668540",
+        "name": "The Legend of Heroes: Trails into Reverie"
+    },
+    {
+        "appid": "538680",
+        "name": "The Legend of Heroes: Trails of Cold Steel"
+    },
+    {
+        "appid": "748490",
+        "name": "The Legend of Heroes: Trails of Cold Steel II"
+    },
+    {
+        "appid": "991270",
+        "name": "The Legend of Heroes: Trails of Cold Steel III"
+    },
+    {
+        "appid": "1198090",
+        "name": "The Legend of Heroes: Trails of Cold Steel IV"
+    },
+    {
+        "appid": "2138610",
+        "name": "The Legend of Heroes: Trails through Daybreak"
+    },
+    {
+        "appid": "2668430",
+        "name": "The Legend of Heroes: Trails through Daybreak II"
+    },
+    {
+        "appid": "1668520",
+        "name": "The Legend of Heroes: Trails to Azure"
+    },
+    {
+        "appid": "1457520",
+        "name": "The Legend of Heroes: Zero no Kiseki Kai"
+    },
+    {
+        "appid": "2933130",
+        "name": "The Lord of the Rings: Return to Moria™"
+    },
+    {
+        "appid": "1295920",
+        "name": "The Mortuary Assistant"
+    },
+    {
+        "appid": "1559600",
+        "name": "The Ranch of Rivershine"
+    },
+    {
+        "appid": "24880",
+        "name": "The Saboteur™"
+    },
+    {
+        "appid": "3084280",
+        "name": "Threefold Recital"
+    },
+    {
+        "appid": "2817530",
+        "name": "To Be In Love With Girls Group"
+    },
+    {
+        "appid": "2231740",
+        "name": "TRADER LIFE SIMULATOR 2"
     }
 ]
