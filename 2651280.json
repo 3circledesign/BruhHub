@@ -1,0 +1,347 @@
+{
+    "appid": "2651280",
+    "type": "Game",
+    "name": "Marvel's Spider-Man 2",
+    "schinese_name": "漫威蜘蛛侠2",
+    "isfreeapp": "0",
+    "change_number": "28012509",
+    "update_time": "2025-03-18 19:58:30",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,arabic,brazilian,greek,latam,vietnamese,indonesian",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2651281": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6697536669279375496",
+                    "size": "111681530913",
+                    "download": "93116250016"
+                },
+                "previous_version": {
+                    "gid": "2908769840177589770",
+                    "size": "111681474150",
+                    "download": "93115168096"
+                }
+            },
+            "decryptionkey": "9874571b52ba0c01cbdfd32c5d81920d1093f42fbcf76d02a1e4589746a3b497"
+        },
+        "2651282": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3022655019025353177",
+                    "size": "845425263",
+                    "download": "525649152"
+                },
+                "previous_version": {
+                    "gid": "8048985448653596100",
+                    "size": "845350871",
+                    "download": "525374272"
+                }
+            },
+            "decryptionkey": "ab459f096f7d0fd0720dd711f19036f532f2678314af4155ed197882c260b539"
+        },
+        "2666310": {
+            "dlcappid": "2666310",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6226989705365633187",
+                    "size": "6483938786",
+                    "download": "1310215712"
+                },
+                "previous_version": {
+                    "gid": "1133646975062065791",
+                    "size": "6481438690",
+                    "download": "1310496608"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2651283": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3140959264389958880",
+                    "size": "3593261056",
+                    "download": "3277269952"
+                },
+                "previous_version": {
+                    "gid": "3140959264389958880",
+                    "size": "3593261056",
+                    "download": "3277269952"
+                }
+            },
+            "decryptionkey": "e342794b2586f10e0a3273560bda0fb524b448519ff20b6ec938d03e5b949104"
+        },
+        "2651284": {
+            "config": {
+                "language": "arabic",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "846324441252010395",
+                    "size": "2780069888",
+                    "download": "2748465200"
+                },
+                "previous_version": {
+                    "gid": "846324441252010395",
+                    "size": "2780069888",
+                    "download": "2748465200"
+                }
+            },
+            "decryptionkey": "11af403d500753e060bd806ed360e9bf5031e0e846a9ba50a876f68fcb61c641"
+        },
+        "2651285": {
+            "config": {
+                "language": "french",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4328447403863919771",
+                    "size": "2808504320",
+                    "download": "2780377776"
+                },
+                "previous_version": {
+                    "gid": "4328447403863919771",
+                    "size": "2808504320",
+                    "download": "2780377776"
+                }
+            },
+            "decryptionkey": "14ad0c77584264070ad5cbedf200f8747660475645d0527c93425de942df6d1b"
+        },
+        "2651286": {
+            "config": {
+                "language": "german",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3948777963018938239",
+                    "size": "2904121344",
+                    "download": "2877615984"
+                },
+                "previous_version": {
+                    "gid": "3948777963018938239",
+                    "size": "2904121344",
+                    "download": "2877615984"
+                }
+            },
+            "decryptionkey": "f33f54c66e41670774919e410838c06145826bfabe00def0753399b0ffe58b4a"
+        },
+        "2651287": {
+            "config": {
+                "language": "italian",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2606619191523762582",
+                    "size": "2832175104",
+                    "download": "2800283248"
+                },
+                "previous_version": {
+                    "gid": "2606619191523762582",
+                    "size": "2832175104",
+                    "download": "2800283248"
+                }
+            },
+            "decryptionkey": "4ab098c2d61d6bc168fb4067cfc2377f9865275310e1e86c960a12de83a39ee9"
+        },
+        "2651288": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1855407133619078595",
+                    "size": "2865455104",
+                    "download": "2834234992"
+                },
+                "previous_version": {
+                    "gid": "1855407133619078595",
+                    "size": "2865455104",
+                    "download": "2834234992"
+                }
+            },
+            "decryptionkey": "0a0e8a531cc2d2483435dcc5d3d0969712b646c0718c39991b0e64d2e0b9a1fd"
+        },
+        "2651289": {
+            "config": {
+                "language": "polish",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3489818852177941630",
+                    "size": "2883158016",
+                    "download": "2854662928"
+                },
+                "previous_version": {
+                    "gid": "3489818852177941630",
+                    "size": "2883158016",
+                    "download": "2854662928"
+                }
+            },
+            "decryptionkey": "14052de118633012aec3fe99b7a692bee3da4c8604d126f7b057f416d327c488"
+        },
+        "2666312": {
+            "config": {
+                "language": "brazilian",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9017518683281573318",
+                    "size": "2705870848",
+                    "download": "2673063648"
+                },
+                "previous_version": {
+                    "gid": "9017518683281573318",
+                    "size": "2705870848",
+                    "download": "2673063648"
+                }
+            },
+            "decryptionkey": "ecb0cd78998a33161c79c8cc7130a578af813aa46c6d8c54fe7227167ebba919"
+        },
+        "2666313": {
+            "config": {
+                "language": "portuguese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3294919126505310189",
+                    "size": "2775363584",
+                    "download": "2745161984"
+                },
+                "previous_version": {
+                    "gid": "3294919126505310189",
+                    "size": "2775363584",
+                    "download": "2745161984"
+                }
+            },
+            "decryptionkey": "4cbc4b49aefb9e6a43312b89474b674d8147e3294baa418b46b3b6c34a9d6850"
+        },
+        "2666314": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7392338523748818045",
+                    "size": "3025317888",
+                    "download": "2996727184"
+                },
+                "previous_version": {
+                    "gid": "7392338523748818045",
+                    "size": "3025317888",
+                    "download": "2996727184"
+                }
+            },
+            "decryptionkey": "58b3013867940ee2998334b9c0412ab2ccc4310a529c231bb74cec034dd2c645"
+        },
+        "2666315": {
+            "config": {
+                "language": "latam",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2989068998349913273",
+                    "size": "2886979584",
+                    "download": "2857450480"
+                },
+                "previous_version": {
+                    "gid": "2989068998349913273",
+                    "size": "2886979584",
+                    "download": "2857450480"
+                }
+            },
+            "decryptionkey": "319c6ed61f3fd2d4571eed5b5132ba16c780d70712db62109e2aa814a912e803"
+        },
+        "2666316": {
+            "config": {
+                "language": "spanish",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8497632270659961146",
+                    "size": "2967093248",
+                    "download": "2938834400"
+                },
+                "previous_version": {
+                    "gid": "8497632270659961146",
+                    "size": "2967093248",
+                    "download": "2938834400"
+                }
+            },
+            "decryptionkey": "49480a4027a30684386dc0f2b32494b7424bbbe67234983c07644a0211ccb61c"
+        },
+        "2666311": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7167820393896288073",
+                    "size": "0",
+                    "download": "0"
+                },
+                "previous_version": {
+                    "gid": "7167820393896288073",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "3bf280f2400be0851c8f7f1872d8c48884df409d8d8e933615ac85b9a972836a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17695354",
+                "timeupdated": "1741882111"
+            },
+            "previous_version": {
+                "buildid": "17636916",
+                "description": "Rollback to previous version",
+                "timeupdated": "1741881995"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
