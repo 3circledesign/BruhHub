@@ -20,14 +20,6 @@
         "name": "Half-Life: Opposing Force"
     },
     {
-        "appid": "3155730",
-        "name": "Venus Vacation PRISM DEAD OR ALIVE Xtreme"
-    },
-    {
-        "appid": "3028310",
-        "name": "Norhold"
-    },
-    {
         "appid": "60",
         "name": "Ricochet"
     },
@@ -694,10 +686,6 @@
     {
         "appid": "4770",
         "name": "Rome: Total War - Alexander"
-    },
-    {
-        "appid": "2407270",
-        "name": "AI LIMIT"
     },
     {
         "appid": "4800",
@@ -63464,6 +63452,10 @@
         "name": "Breakwaters"
     },
     {
+        "appid": "1203190",
+        "name": "Wreckfest 2"
+    },
+    {
         "appid": "1203220",
         "name": "NARAKA: BLADEPOINT"
     },
@@ -68684,14 +68676,6 @@
         "name": "Milky Way Prince – The Vampire Star"
     },
     {
-        "appid": "3020510",
-        "name": "Legend of Heroes Three Kingdoms"
-    },
-    {
-        "appid": "2564070",
-        "name": "Blood Crawler"
-    },
-    {
         "appid": "1302230",
         "name": "Dead Containment"
     },
@@ -71632,6 +71616,10 @@
         "name": "Darkness Eternal"
     },
     {
+        "appid": "1376200",
+        "name": "诡墓KARMA The Dark World"
+    },
+    {
         "appid": "1376370",
         "name": "Hentai Jigsaw Emma"
     },
@@ -74553,7 +74541,7 @@
     },
     {
         "appid": "1442430",
-        "name": "Storage Hunter"
+        "name": "Storage Hunter Simulator"
     },
     {
         "appid": "1442450",
@@ -89710,6 +89698,10 @@
     {
         "appid": "1796410",
         "name": "The Touryst"
+    },
+    {
+        "appid": "1796470",
+        "name": "Haste"
     },
     {
         "appid": "1796510",
@@ -110644,6 +110636,10 @@
         "name": "Fate/Samurai Remnant - Bonus Equipment: Hallowed Relic Sword Mountings"
     },
     {
+        "appid": "2407270",
+        "name": "AI LIMIT"
+    },
+    {
         "appid": "2407310",
         "name": "The Last Orgasm"
     },
@@ -112098,6 +112094,10 @@
     {
         "appid": "2456690",
         "name": "Piece of..Horror"
+    },
+    {
+        "appid": "2456740",
+        "name": "inZOI"
     },
     {
         "appid": "2456960",
@@ -116252,6 +116252,10 @@
         "name": "Draft Day Sports: Pro Basketball 2024"
     },
     {
+        "appid": "2625420",
+        "name": "Drive Beyond Horizons"
+    },
+    {
         "appid": "2625510",
         "name": "Don't Shout Together"
     },
@@ -117686,6 +117690,10 @@
     {
         "appid": "2679590",
         "name": "Chaperone"
+    },
+    {
+        "appid": "2680010",
+        "name": "The First Berserker: Khazan"
     },
     {
         "appid": "2680250",
@@ -122182,6 +122190,10 @@
     {
         "appid": "2869630",
         "name": "Star Fetchers: Escape from Pork Belly"
+    },
+    {
+        "appid": "2870110",
+        "name": "Tennis Manager 2024"
     },
     {
         "appid": "2870420",
@@ -127652,6 +127664,10 @@
         "name": "雾之大陆(TheLandOfFog)"
     },
     {
+        "appid": "3164500",
+        "name": "Schedule I"
+    },
+    {
         "appid": "3164640",
         "name": "Days In Palis"
     },
@@ -127790,6 +127806,10 @@
     {
         "appid": "3172280",
         "name": "SEX Amnesia - Lover Sim 🔞"
+    },
+    {
+        "appid": "3172310",
+        "name": "Sex Desert Mad Lust"
     },
     {
         "appid": "3172330",
@@ -127944,12 +127964,8 @@
         "name": "Cyber mission - Full armor"
     },
     {
-        "appid": "3183280",
-        "name": "The Lighting Ages"
-    },
-    {
         "appid": "3183260",
-        "name": "Game of Thrones Kingsroad"
+        "name": "The Lighting Ages"
     },
     {
         "appid": "3183350",
@@ -128568,10 +128584,6 @@
         "name": "出張 Business trip"
     },
     {
-        "appid": "3565050",
-        "name": "Trucker Horror"
-    },
-    {
         "appid": "3236010",
         "name": "SuperSorry"
     },
@@ -128886,6 +128898,10 @@
     {
         "appid": "3271870",
         "name": "Biohazard: Siberia"
+    },
+    {
+        "appid": "3272300",
+        "name": "Yasuke Simulator"
     },
     {
         "appid": "3272890",
@@ -130232,6 +130248,10 @@
         "name": "ZombieCards"
     },
     {
+        "appid": "3445580",
+        "name": "Ambidextro"
+    },
+    {
         "appid": "3446120",
         "name": "Kira☆Kano"
     },
@@ -130330,26 +130350,5 @@
     {
         "appid": "3533330",
         "name": "SEX OVER 🎮💦"
-    },
-    {
-        "appid": "1203190",
-        "name": "Wreckfest 2"
-    },
-    {
-        "appid": "2625420",
-        "name": "Drive Beyond Horizons"
-    },
-    {
-        "appid": "2680010",
-        "name": "The First Berserker: Khazan"
-    },
-    {
-        "appid": "3164500",
-        "name": "Schedule I"
-    },
-    {
-        "appid": "3272300",
-        "name": "Yasuke Simulator"
     }
-    
 ]
