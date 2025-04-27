@@ -1,5 +1,17 @@
 [
     {
+        "name": "Chains of Freedom",
+        "st_file": "2994010.lua"
+    },
+    {
+        "name": "Workplace Fantasy",
+        "st_file": "2544720.lua"
+    },
+    {
+        "name": "Magic Rune Stone",
+        "st_file": "3206200.lua"
+    },
+    {
         "name": "Supercar Collection Simulator",
         "st_file": "3453600.lua"
     },
@@ -12390,10 +12402,6 @@
     {
         "name": "Workplace Rhapsody",
         "st_file": "1585570.lua"
-    },
-    {
-        "name": "Workplace Fantasy",
-        "st_file": "2544720.lua"
     },
     {
         "name": "Witch The Bloodlines",
