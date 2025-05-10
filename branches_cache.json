@@ -1,5 +1,17 @@
 [
     {
+        "name": "RuneScape Dragonwilds",
+        "st_file": "1374490.lua"
+    },
+    {
+        "name": "gogh Focus with Your Avatar",
+        "st_file": "3213850.lua"
+    },
+    {
+        "name": "Back from the other world, I missed love",
+        "st_file": "2998600.lua"
+    },
+    {
         "name": "Deadzone Rogue",
         "st_file": "3228590.lua"
     },
@@ -8394,10 +8406,6 @@
     {
         "name": "[60] Ricochet",
         "st_file": "60.lua"
-    },
-    {
-        "name": "[2531310] The Last of Us\u2122 Part II Remastered",
-        "st_file": "2531310.lua"
     },
     {
         "name": "[1989070] Synergy",
