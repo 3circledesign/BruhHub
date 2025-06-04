@@ -1,1 +1,5 @@
 V1.0.3
+Changelog
+- Added Redownload game files right clicking on the game that is already added
+- Remove the AutoUpdate function because it sometime mess up with the game files
+- Change to download API which auto updated compared to the json file which manually added.
