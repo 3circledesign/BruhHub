@@ -1,5 +1,7 @@
-V1.0.3
+V1.0.4
 Changelog
-- Added Redownload game files right clicking on the game that is already added
-- Remove the AutoUpdate function because it sometime mess up with the game files
-- Change to download API which auto updated compared to the json file which manually added.
+- !!!IMPORTANT UPDATE!!! After introducing the right click and then pressing on "Redownload Game Files", I broke the Add Game button and you will not be able to add your game
+- Fix the Add game button not doing anything
+- Optimization: Improve on game list caching, only new game will be written in the cache instead of writing whole 31k game everytime app is started.
+- Optimization: Game list will update added/remove game list instantly instead of long load due to change above.
+- Very sorry on this situation! I do better in future!
