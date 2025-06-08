@@ -1,7 +1,4 @@
-V1.0.4
+V1.0.5
 Changelog
-- !!!IMPORTANT UPDATE!!! After introducing the right click and then pressing on "Redownload Game Files", I broke the Add Game button and you will not be able to add your game
-- Fix the Add game button not doing anything
-- Optimization: Improve on game list caching, only new game will be written in the cache instead of writing whole 31k game everytime app is started.
-- Optimization: Game list will update added/remove game list instantly instead of long load due to change above.
-- Very sorry on this situation! I do better in future!
+- Update the config to be downloaded online instead compiled with the app, which provide more robust configuration incase of token is being restricted/rebuke.
+- Various code optimization
