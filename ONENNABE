@@ -1,4 +1,4 @@
-V1.0.5
+V1.0.6
 Changelog
-- Update the config to be downloaded online instead compiled with the app, which provide more robust configuration incase of token is being restricted/rebuke.
-- Various code optimization
+- Fix unable to download or add game again due to missing setting and mismatch configuration in the server.
+- I apologize deeply due to the inconvenience.
